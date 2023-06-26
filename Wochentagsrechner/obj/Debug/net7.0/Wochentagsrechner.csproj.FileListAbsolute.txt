@@ -1,0 +1,15 @@
+F:\Programmieren\Wochentagsrechner\bin\Debug\net7.0\Wochentagsrechner.exe
+F:\Programmieren\Wochentagsrechner\bin\Debug\net7.0\Wochentagsrechner.deps.json
+F:\Programmieren\Wochentagsrechner\bin\Debug\net7.0\Wochentagsrechner.runtimeconfig.json
+F:\Programmieren\Wochentagsrechner\bin\Debug\net7.0\Wochentagsrechner.dll
+F:\Programmieren\Wochentagsrechner\bin\Debug\net7.0\Wochentagsrechner.pdb
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.csproj.AssemblyReference.cache
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.AssemblyInfoInputs.cache
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.AssemblyInfo.cs
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.csproj.CoreCompileInputs.cache
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.dll
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\refint\Wochentagsrechner.dll
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.pdb
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\Wochentagsrechner.genruntimeconfig.cache
+F:\Programmieren\Wochentagsrechner\obj\Debug\net7.0\ref\Wochentagsrechner.dll
